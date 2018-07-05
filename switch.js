@@ -1,5 +1,5 @@
 var themes = {
-    "default": "//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css",
+    "default": "https://netdna.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css",
     "amelia" : "//bootswatch.com/3/amelia/bootstrap.min.css",
     "cerulean" : "//bootswatch.com/3/cerulean/bootstrap.min.css",
     "cosmo" : "//bbootswatch.com/3/cosmo/bootstrap.min.css",
